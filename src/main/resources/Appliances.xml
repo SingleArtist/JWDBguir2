@@ -1,0 +1,40 @@
+<appliances>
+    <teapot>
+        <price>100</price>
+        <power>1000</power>
+        <weight>9</weight>
+        <bulk>1</bulk>
+        <color>BLUE</color>
+    </teapot>
+    <teapot>
+        <price>100</price>
+        <power>1000</power>
+        <weight>5</weight>
+        <bulk>2</bulk>
+        <color>GREEN</color>
+    </teapot>
+
+    <laptop>
+        <price>7500</price>
+        <battery_capacity>1000</battery_capacity>
+        <os>WINDOWS</os>
+        <memory_rom>16000</memory_rom>
+        <cpu>INTEL_CORE_I5_11600K</cpu>
+        <display_inches>15.6</display_inches>
+    </laptop>
+    <laptop>
+        <price>10000</price>
+        <battery_capacity>2000</battery_capacity>
+        <os>LINUX</os>
+        <memory_rom>16000</memory_rom>
+        <cpu>AMD_RYZEN_9_5900X</cpu>
+        <display_inches>13</display_inches>
+    </laptop>
+
+
+    <fridge>
+        <price>1000</price>
+        <color>BLACK</color>
+        <company>LG</company>
+    </fridge>
+</appliances>
